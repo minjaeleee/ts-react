@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id:": "ID",
+      "title": "TITLE",
+      "completed": false
+    },
+    {
+      "id": "560da3fc-8913-4e95-98e2-87282d3c2307",
+      "title": "1",
+      "completed": true
+    },
+    {
+      "id": "81a2052d-6d8b-4d85-a44d-b36033a70c90",
+      "title": "2",
+      "completed": false
+    }
+  ]
+}
